@@ -1,0 +1,10 @@
+{
+  "name": "XML catalog parser",
+  "version": "0.0.1",
+  "description": "An example module to illustrate the usage of a package.json",
+  "author": "Artem Valiulin <Artem_Valiulin@epam.com>",
+  "main": "./index.js",
+  "dependencies": {
+    "xml2js": "*"
+  }
+}
